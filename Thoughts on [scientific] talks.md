@@ -1,17 +1,17 @@
-##Thoughts on [scientific] talks
+##Thoughts on giving [scientific] presentations 
 Samuel V. Scarpino  
 
-As a part of the Santa Fe Institute's Research Experience for Undergraduates program, I prepared a short lecture on giving scientific talks.  Personally, I think there is too much dogma and too little science when comes to giving good presentations.  However, I also know that we all sit through FAR too many terrible talks.  Luckily, some people do consistently give great presentations [ht].  I also benefited immensely from two workshops with LeeAundra Keany.  What follows are my thoughts on what they often do, which others often don't.  I'd love to hear your feedback.  
+As a part of the Santa Fe Institute's Research Experience for Undergraduates program, I prepared a short lecture on giving scientific talks.  Personally, I think there is far more dogma than science when it comes to giving good presentations.  I also know that we all sit through FAR too many [terrible] talks.  Luckily, some people do consistently give great presentations [ht].  I also benefited immensely from two workshops with LeeAundra Keany.  What follows are my thoughts on what they often do, which others often don't.  I'd love to hear your feedback.  
 
 ###High-level
 1. Never go over time.
 2. Don't finish too early.
-3. Know your audience, e.g. is the person who wrote one of the papers in your intro going to be in the room?
+3. Know your audience, e.g. is the person who wrote one your intro papers in the room?
 4. Show up early enough to test and make necessary modifications. 
-5. Friends do let friends give bad talks, so if you see something, say something.
+5. Friends don't let friends give bad talks, so if you see something, say something.
 6. It's ok to be nervous, but giving talks should eventually be enjoyable.
-7. Someone in your audience will notice bad: fonts, colors, labels, etc.
-8. Use the pointer sparingly, especially if your nervous. [citation - LeeAundra Keany]
+7. Someone in your audience will notice bad fonts, colors, labels, etc.
+8. Use the pointer sparingly, especially if you're nervous. [citation - LeeAundra Keany]
 9. Get advice on body language and hand movements from an expert.
 
 ###Lower-level
@@ -23,7 +23,7 @@ As a part of the Santa Fe Institute's Research Experience for Undergraduates pro
 * Figures should be BIG & SIMPLE & COLOR BLIND AWARE.
 	* Published figures are almost never ok to use in a talk [citation - Sara Sawyer].
 	* Try to follow best practices for reproducibility, i.e. avoid substantial figure modification in programs like Illustrator.  
-	* Spend some time making high-quality graphics to illustrate key aspects of your talk.
+	* Spend some time making high-quality graphics/cartoons to illustrate key aspects of your talk.
 * Text
 	* Keep to a minimum and ALWAYS read text out loud.
 	* However, use text when you need it.  
@@ -41,7 +41,7 @@ As a part of the Santa Fe Institute's Research Experience for Undergraduates pro
 * Results
 	* Simple figures.
 	* Provide citations for your work and others.
-	* Make sure all figure elements are essential.  If they aren't then simplify your figures.
+	* Make sure all figure elements are essential.  If they aren't essential then simplify your figures.
 * Conclusions
 	* Restate your conclusions using images/figures [citation - Mark Kirkpatrick].
 * Acknowledge those who contributed
@@ -52,7 +52,7 @@ As a part of the Santa Fe Institute's Research Experience for Undergraduates pro
 * Questions
 	* Hold slides in reserve for the Q/A.  
 		* These slides are a great place for equations and/or more complicated figures.
-	* It's ok to suggest discussing a question after the talk, i.e. you usually don't have to answer everything thrown your way.
+	* It's ok to punt a question until after the talk, i.e. you usually don't have to answer everything thrown your way.
 * Practice.
 	* There is no one right way to practice, but find yours and do it.
 	* If you have a mentor and they're good at giving talks, make sure and get their advice.
