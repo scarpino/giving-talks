@@ -1,4 +1,4 @@
-##Thoughts on giving [scientific] presentations 
+## Thoughts on giving [scientific] presentations 
 Samuel V. Scarpino  
 
 As a part of the Santa Fe Institute's Research Experience for Undergraduates program, I prepared a short lecture on giving scientific talks.  Personally, I think there is far more dogma than science when it comes to giving good presentations.  I also know that we all sit through FAR too many [terrible] talks.  Luckily, some people do consistently give great presentations [ht].  I also benefited immensely from two workshops with LeeAundra Keany.  What follows are my thoughts on what they often do, which others often don't.  I'd love to hear your feedback.  
