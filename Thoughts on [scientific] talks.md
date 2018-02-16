@@ -1,9 +1,9 @@
-##Thoughts on giving [scientific] presentations 
+## Thoughts on giving [scientific] presentations 
 Samuel V. Scarpino  
 
 As a part of the Santa Fe Institute's Research Experience for Undergraduates program, I prepared a short lecture on giving scientific talks.  Personally, I think there is far more dogma than science when it comes to giving good presentations.  I also know that we all sit through FAR too many [terrible] talks.  Luckily, some people do consistently give great presentations [ht].  I also benefited immensely from two workshops with LeeAundra Keany.  What follows are my thoughts on what they often do, which others often don't.  I'd love to hear your feedback.  
 
-###High-level
+### High-level
 1. Never go over time.
 2. Don't finish too early.
 3. Know your audience, e.g. is the person who wrote one your intro papers in the room?
@@ -14,7 +14,7 @@ As a part of the Santa Fe Institute's Research Experience for Undergraduates pro
 8. Use the pointer sparingly, especially if you're nervous. [citation - LeeAundra Keany]
 9. Get advice on body language and hand movements from an expert.
 
-###Lower-level
+### Lower-level
 * Get and stay organized
 	* Assume that you are going to give the talk more than once.
 	* Assume you will want to use slides and/or figures in later talks.
